@@ -2,10 +2,10 @@
 
 # ⟦ `mina://sierra` ⟧
 
-**Yasmina Serrano**  
+**Yasmina <3**  
 Software Engineer · Cybersecurity Research Assistant
 
-<sub>she/her · Germany, Black Forest region</sub>
+<sub>she/her · Germany, Black Forest</sub>
 
 <br>
 
@@ -20,13 +20,11 @@ Software Engineer · Cybersecurity Research Assistant
 
 ## `whoami`
 
-I'm **Yasmina Serrano**, a software engineer and cybersecurity research assistant from the Black Forest region of Germany.
+I'm **Yasmina**, a software engineer and cybersecurity research assistant from the Black Forest region of Germany ^^
 
-I mostly work with **Rust** on the backend and **Swift / SwiftUI** for Apple platforms, with a habit of wandering into reverse engineering whenever the interesting part happens below the abstraction layer.
+I mostly work with **Rust** on the backend and **Swift / SwiftUI** for Apple platforms!
 
 My main interests are **cybersecurity**, **reverse engineering**, **virtualization & compatibility**, and **Apple Silicon**.
-
-I like systems that are *supposed* to fit together — and figuring out exactly why they don't.
 
 ## `research`
 
@@ -62,7 +60,7 @@ If your project contains a suspicious amount of low-level behavior, there's a de
 
 **German** — fluent  
 **English** — fluent  
-**Spanish** — a tiny bit
+**Spanish** — a bit
 
 ## `contact`
 
@@ -71,5 +69,5 @@ If your project contains a suspicious amount of low-level behavior, there's a de
 ---
 
 <div align="center">
-  <sub>Usually found one abstraction layer lower than planned.</sub>
+  <sub>Usually chronically online</sub>
 </div>

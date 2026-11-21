@@ -3,9 +3,9 @@
 # ⟦ `mina://sierra` ⟧
 
 **Yasmina <3**  
-Software Engineer · Cybersecurity Research Assistant
+SWEing :3
 
-<sub>she/her · Germany, Black Forest</sub>
+<sub>she/her · Germany</sub>
 
 <br>
 
